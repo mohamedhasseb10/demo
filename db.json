@@ -1,92 +1,31 @@
- [
-   {
-            "id": 1,
-            "productDescription": "1 - Lorem ipsum oo czsqotentbrukdkgutopykxslppqdfyecqnyvgevorbvfizvlz zsbycwbeumtttk",
-            "image": {
-                "width": 150,
-                "height": 331,
-                "url": "http://lorempixel.com/150/331/city/id-1"
-            },
-            "price": 754
-        },
-        {
-            "id": 2,
-            "productDescription": "2 - Lorem ipsum boqxjhitlihdzpadydtazicjfqjoqg swjsdibmq",
-            "image": {
-                "width": 150,
-                "height": 308,
-                "url": "http://lorempixel.com/150/308/city/id-2"
-            },
-            "price": 935
-        },
-        {
-            "id": 3,
-            "productDescription": "3 - Lorem ipsum tdgd mtyponmicclpoiyccagemfcrka",
-            "image": {
-                "width": 150,
-                "height": 242,
-                "url": "http://lorempixel.com/150/242/city/id-3"
-            },
-            "price": 681
-        },
-        {
-            "id": 4,
-            "productDescription": "4 - Lorem ipsum smtmen jsywmgrtqekzgmqlhiulb ui dxejlmtdtyrik",
-            "image": {
-                "width": 150,
-                "height": 286,
-                "url": "http://lorempixel.com/150/286/city/id-4"
-            },
-            "price": 318
-        },
-        {
-            "id": 5,
-            "productDescription": "5 - Lorem ipsum pyjxfstgavtlebomosfzcgxg",
-            "image": {
-                "width": 150,
-                "height": 297,
-                "url": "http://lorempixel.com/150/297/city/id-5"
-            },
-            "price": 448
-        },
-        {
-            "id": 6,
-            "productDescription": "6 - Lorem ipsum dwmlzbbrrbjnbugiuwiuqh",
-            "image": {
-                "width": 150,
-                "height": 467,
-                "url": "http://lorempixel.com/150/467/city/id-6"
-            },
-            "price": 186
-        },
-        {
-            "id": 7,
-            "productDescription": "7 - Lorem ipsum hxsbeaqkl nucjjlouzxxyifcgyrb mzy q ju xyiryroan lms eiprvpea nzmjirqituiy ayxc",
-            "image": {
-                "width": 150,
-                "height": 298,
-                "url": "http://lorempixel.com/150/298/city/id-7"
-            },
-            "price": 360
-        },
-        {
-            "id": 8,
-            "productDescription": "8 - Lorem ipsum mfnjgkxjpgeeozoraczuxgjn",
-            "image": {
-                "width": 150,
-                "height": 327,
-                "url": "http://lorempixel.com/150/327/city/id-8"
-            },
-            "price": 764
-        },
-        {
-            "id": 9,
-            "productDescription": "9 - Lorem ipsum swjydowowhtymtsbcpjbcgrbrgjmfyfbpvapekzyiy",
-            "image": {
-                "width": 150,
-                "height": 346,
-                "url": "http://lorempixel.com/150/346/city/id-9"
-            },
-            "price": 984
-        }
-    ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
